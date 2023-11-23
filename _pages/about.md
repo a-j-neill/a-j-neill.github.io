@@ -17,8 +17,9 @@ I am also interested in exploring new approaches for visualising model output an
 <br>
 My PhD on Advancing Models of Microbial Water Quality was awarded by the University of Aberdeen and undertaken in collaboration with the James Hutton Institute. Following my PhD, I progressed to my first postdoc position working on the “Isotopes in ecohydrological models to manage land use change impacts” (ISO-LAND) project. Since September 2022, I have been based within the Institute of Hazard, Risk and Resilience at Durham University (UK) as a postdoctoral research associate.<br>
 <br>
-<br>
 ## EGU 2024 <br>
+<br>
+![Session HS2.3.6](https://a-j-neill.github.io/files/EGU24_SessionBanner_Email.png "EGU 2024")<br>
 <br>
 If you are a researcher working on Novel monitoring and/or modelling approaches to inform the management of agricultural water pollution in tropical environments, please consider submitting an abstract to our session at EGU24.<br>
 <br>
@@ -29,6 +30,9 @@ For more information and to submit an abstract, visit:<br>
 <br>
 [Session HS2.3.6 Novel monitoring and modelling approaches to inform the management of agricultural water pollution in tropical environments](https://meetingorganizer.copernicus.org/EGU24/session/48438)<br>
 <br>
-Co-convened with Dr Suzanne R. Jacobs (JLU Giessen, Germany), Prof Christian Birkel (UCR, Costa Rica), Dr Frank O. Masese (University of Eldoret, Kenya) and Dr Sim M. Reaney (Durham University, UK)<br>
-<br>
-![Session HS2.3.6](https://a-j-neill.github.io/files/EGU24_SessionBanner_Email.png "EGU 2024")
+Co-convened with:<br>
+* Dr Suzanne R. Jacobs (JLU Giessen, Germany)<br>
+* Prof Christian Birkel (UCR, Costa Rica)<br>
+* Dr Frank O. Masese (University of Eldoret, Kenya)<br>
+* Dr Sim M. Reaney (Durham University, UK)<br>
+
