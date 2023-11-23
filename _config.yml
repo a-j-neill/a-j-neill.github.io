@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Aaron J. Neill"
+title                    : "Dr Aaron J. Neill"
 title_separator          : "-"
 name                     : &name "Aaron Neill"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr Aaron J Neill"
-  avatar           : "profile.png"
+  avatar           : "ANeill_Square.png"
   bio              : "Postdoctoral Research Associate"
   location         : "Durham, England"
   employer         : "Durham University"
