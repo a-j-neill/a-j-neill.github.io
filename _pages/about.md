@@ -1,4 +1,3 @@
-<style>body {text-align: justify}</style>
 ---
 permalink: /
 title: "Sources and pathways of agricultural pollutants"
