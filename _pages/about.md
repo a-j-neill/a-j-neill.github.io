@@ -12,7 +12,7 @@ redirect_from:
 My research spans two linked yet distinct areas of hydrology:<br>
 <br>
 1. The advancement of ecohydrological process understanding, and<br>
-2. Tracing the sources and flow paths that contribute agricultural pollutants (microbial and nutrients) to receiving waters.<br>
+2. Tracing the sources and flow paths that contribute agricultural pollutants (microbial and nutrients) to receiving waters.<a/>
 <br>
 Central to my work is the fusion of models with complimentary data streams (e.g., water quality parameters, stable water isotopes, ecohydrological monitoring) to improve confidence in model outputs. I am particularly interested in using agent-based approaches to trace the movement of water and pollutants in the landscape, and am the developer of the Model for the Agent-based simulation of Faecal Indicator Organisms (MAFIO).<br>
 <br>
