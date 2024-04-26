@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : aaronhydro
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Dr Aaron J Neill"
   avatar           : "ANeill_Square.png"
-  bio              : "Postdoctoral Research Associate"
-  location         : "Durham, England"
-  employer         : "Durham University"
+  bio              : "Postdoctoral Researcher"
+  location         : "Giessen, Germany"
+  employer         : "Justus Liebig University Giessen"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=OIq-q30AAAAJ&view_op=list_works&sortby=pubdate"
   email            :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "aaronhydro"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
