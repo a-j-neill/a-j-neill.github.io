@@ -22,3 +22,5 @@ I am also in the early stages of devising projects to address research questions
 <br>
 My PhD on Advancing Models of Microbial Water Quality was awarded by the University of Aberdeen and undertaken in collaboration with the James Hutton Institute (2015-2019). I remained at the University of Aberdeen for my first postdoctoral position until August 2022. From September 2022 to February 2024, I was based within the Institute of Hazard, Risk and Resilience at Durham University (UK) as a postdoctoral research associate working on hydrological hazards. In March 2024, I joined the Institute for Landscape Ecology and Resources Management at the Justus Liebig University Giessen (Germany) as a postdoctoral researcher.<br>
 <br>
+
+![TeaPlantation](https://github.com/a-j-neill/a-j-neill.github.io/assets/112963007/0e36cb1b-217c-4967-9771-dc6df1000274)
