@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Ecohydrology and water quality"
-excerpt: "My research has two main streams: 1) Advancing ecohydrological process understanding, and 2) tracing the sources and flow paths contributing agricultural pollutants to receiving waters"
+excerpt: "My research has two main streams: 1) Hydrological connectivity and ecohydrological processes, and 2) Sources and pathways of pollutants to receiving waters."
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br>
 <br>
-My research spans two linked yet distinct areas of hydrology: 1) Advancing ecohydrological process understanding, and 2) Tracing the sources and flow paths that contribute pollutants to receiving waters.<br>
+My research spans two linked yet distinct areas of hydrology: 1) Hydrological connectivity and ecohydrological processes, and 2) Sources and pathways of pollutants to receiving waters.<br>
 <br>
 Central to my work is the fusion of models with complimentary data streams (e.g., water quality parameters, stable water isotopes, ecohydrological monitoring) to improve confidence in model outputs. I am particularly interested in using agent-based approaches to trace the movement of water and pollutants in the landscape, and am the developer of the Model for the Agent-based simulation of Faecal Indicator Organisms (MAFIO).<br>
 <br>
